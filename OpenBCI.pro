@@ -1,4 +1,4 @@
-update=ven. 20 nov. 2015 10:18:55 CET
+update=dim. 22 nov. 2015 19:19:19 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=library/ads1299
+LibName31=library/power_supply
