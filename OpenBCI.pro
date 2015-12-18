@@ -1,4 +1,4 @@
-update=dim. 22 nov. 2015 19:19:19 CET
+update=ven. 18 déc. 2015 18:41:56 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,5 @@ LibName28=contrib
 LibName29=valves
 LibName30=library/ads1299
 LibName31=library/power_supply
+LibName32=library/imciner-KiCad-Libraries/symbols/DataStorage
+LibName33=library/imciner-KiCad-Libraries/symbols/Sensors
