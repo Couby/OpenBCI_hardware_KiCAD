@@ -1,4 +1,4 @@
-update=sam. 19 déc. 2015 10:40:21 CET
+update=sam. 19 déc. 2015 15:13:37 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,5 +62,3 @@ LibName30=library/ads1299
 LibName31=library/power_supply
 LibName32=library/imciner-KiCad-Libraries/symbols/DataStorage
 LibName33=library/imciner-KiCad-Libraries/symbols/Sensors
-LibName34=library/rn-cay16-f4
-LibName35=library/tpd4e1b06

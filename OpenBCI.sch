@@ -30,10 +30,9 @@ LIBS:contrib
 LIBS:valves
 LIBS:ads1299
 LIBS:power_supply
+LIBS:input_filtering
 LIBS:DataStorage
 LIBS:Sensors
-LIBS:rn-cay16-f4
-LIBS:tpd4e1b06
 LIBS:OpenBCI-cache
 EELAYER 25 0
 EELAYER END
